@@ -1,6 +1,6 @@
 input.onButtonPressed(Button.A, function () {
     radio.sendString("keira")
-    basic.showIcon(IconNames.Heart)
+    basic.showIcon(IconNames.Yes)
     basic.pause(200)
     basic.clearScreen()
 })
